@@ -1,0 +1,224 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nijaat Productions</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family: system-ui, -apple-system, sans-serif;
+    background:#0d0d0d;
+    color:white;
+}
+
+header{
+    background:black;
+    padding:60px 20px;
+    text-align:center;
+}
+
+header h1{
+    font-size:42px;
+    margin:0;
+}
+
+header p{
+    font-size:18px;
+    color:#aaa;
+    margin-top:10px;
+}
+
+section{
+    max-width:900px;
+    margin:auto;
+    padding:40px 20px;
+}
+
+h2{
+    border-left:4px solid white;
+    padding-left:12px;
+}
+
+p{
+    line-height:1.7;
+    color:#ddd;
+}
+
+.film{
+    background:#1a1a1a;
+    padding:20px;
+    margin-top:20px;
+    border-radius:10px;
+}
+
+.button{
+    display:inline-block;
+    margin-top:10px;
+    padding:10px 20px;
+    background:white;
+    color:black;
+    text-decoration:none;
+    border-radius:6px;
+}
+
+.button:hover{
+    background:#ccc;
+}
+
+footer{
+    text-align:center;
+    padding:30px;
+    color:#888;
+}
+
+</style>
+
+</head>
+<body>
+
+<header>
+
+<h1>Nijaat Productions</h1>
+
+<p>Ambedkarite Artists Creating Anti-Caste Cinema</p>
+
+</header>
+
+
+<section>
+
+<h2>About</h2>
+
+<p>
+Nijaat Productions is a collective of Ambedkarite artists committed to building a casteless society as envisioned by Dr. Babasaheb Ambedkar. Through cinema, documentaries, and digital media, we challenge caste oppression and amplify marginalized voices.
+</p>
+
+<p>
+We believe art is a weapon of resistance. Our films document anti-caste struggles, Dalit artists, activists, and social realities ignored by mainstream media. Social media allows us to bypass traditional gatekeeping and connect directly with people.
+</p>
+
+</section>
+
+
+<section>
+
+<h2>Films</h2>
+
+<div class="film">
+
+<h3>Gun Gondhal (2023)</h3>
+
+<p>
+Debut feature film exploring caste realities and social contradictions.
+</p>
+
+</div>
+
+
+<div class="film">
+
+<h3>Kadubai</h3>
+
+<p>
+Documentary on Dalit folk singer Kadubai Kharat and her resistance through music.
+</p>
+
+<a href="https://youtu.be/Fr1vv40Ofaw" class="button" target="_blank">
+Watch Trailer
+</a>
+
+</div>
+
+
+<div class="film">
+
+<h3>Gajaadachya Kavita (2013)</h3>
+
+<p>
+Poetic documentary based on anti-caste activist Sachin Mali's prison poems.
+</p>
+
+<a href="https://youtu.be/i3ejWMRB-VM" class="button" target="_blank">
+Watch Trailer
+</a>
+
+</div>
+
+
+<div class="film">
+
+<h3>Pause (2012)</h3>
+
+<p>
+Short film exploring caste barriers in teenage love.
+</p>
+
+</div>
+
+
+<div class="film">
+
+<h3>Terawa (2013)</h3>
+
+<p>
+Film on superstition, caste, and contradictions in marginalized communities.
+</p>
+
+</div>
+
+
+<div class="film">
+
+<h3>Enlighten (2015)</h3>
+
+<p>
+Film examining internal caste conflict and Ambedkarite consciousness.
+</p>
+
+</div>
+
+</section>
+
+
+<section>
+
+<h2>Mission</h2>
+
+<p>
+Our camera is our weapon. Like the ektara of Dalit folk artists, cinema becomes a tool to challenge caste, preserve anti-caste histories, and build an egalitarian society.
+</p>
+
+<p>
+We create documentaries, short films, and digital content in Marathi and Hindi to reach wider audiences and strengthen anti-caste movements.
+</p>
+
+</section>
+
+
+<section>
+
+<h2>Contact</h2>
+
+<p>
+Email: nijaatproductions@email.com<br>
+YouTube: Nijaat Productions<br>
+Location: Maharashtra, India
+</p>
+
+</section>
+
+
+<footer>
+
+© 2026 Nijaat Productions  
+Ambedkarite Cinema Collective
+
+</footer>
+
+</body>
+</html>
+```
